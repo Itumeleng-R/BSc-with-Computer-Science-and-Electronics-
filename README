@@ -1,0 +1,80 @@
+# CMPG111 – Introduction to Computing & Programming
+
+## 📘 Module Overview
+CMPG111 introduces foundational programming concepts essential for all computing modules.  
+This enhanced repository version aligns with NWU’s academic outcomes while presenting content suitable for GitHub portfolios.
+
+## 🎯 Learning Outcomes
+Students completing this module will be able to:
+- Understand variables, operators, and data types
+- Write programs using conditionals and loops
+- Use functions to structure modular code
+- Apply algorithmic thinking to solve computing problems
+- Debug and test simple programs
+- Develop foundational computational problem‑solving skills
+
+## 🧩 Topics Covered
+### 1. Introduction to Programming
+- What is a program?
+- Problem-solving & algorithms  
+- Pseudocode & flowcharts
+
+### 2. Variables & Data Types
+- Integers, floats, strings, booleans  
+- Basic operations  
+- Input & output
+
+### 3. Control Flow
+- If, elif, else  
+- Logical operators  
+- Nested decisions
+
+### 4. Repetition Structures
+- For loops  
+- While loops  
+- Loop control (break, continue)
+
+### 5. Functions
+- Parameters & return types  
+- Scope  
+- Modular design
+
+### 6. Basic Algorithms
+- Searching  
+- Sorting  
+- Mathematical algorithms
+
+### 7. Debugging Techniques
+- Common errors  
+- Trace tables  
+- Print debugging
+
+## 🛠 Tools & Technologies
+- Python (primary example language)
+- VS Code / PyCharm
+- Git & GitHub
+
+## 🚀 Skills You Will Gain
+- Structured programming
+- Algorithmic thinking
+- Clean coding habits
+- Problem-solving fundamentals
+- Familiarity with Git version control
+
+## 📁 Repository Structure
+```
+CMPG111/
+│── README.md
+│── examples/
+│── exercises/
+│── notes/
+│── resources/
+│── template/
+```
+
+## 📌 For Recruiters
+This repository demonstrates:
+- Understanding of basic software engineering principles  
+- Ability to document and structure code professionally  
+- Problem‑solving ability through assignments and examples  
+
